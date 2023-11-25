@@ -1,0 +1,14 @@
+/Users/guest1/Desktop/oop/9.2P/9.2C/bin/Debug/net7.0/9.2C
+/Users/guest1/Desktop/oop/9.2P/9.2C/bin/Debug/net7.0/9.2C.deps.json
+/Users/guest1/Desktop/oop/9.2P/9.2C/bin/Debug/net7.0/9.2C.runtimeconfig.json
+/Users/guest1/Desktop/oop/9.2P/9.2C/bin/Debug/net7.0/9.2C.dll
+/Users/guest1/Desktop/oop/9.2P/9.2C/bin/Debug/net7.0/9.2C.pdb
+/Users/guest1/Desktop/oop/9.2P/9.2C/obj/Debug/net7.0/9.2C.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guest1/Desktop/oop/9.2P/9.2C/obj/Debug/net7.0/9.2C.AssemblyInfoInputs.cache
+/Users/guest1/Desktop/oop/9.2P/9.2C/obj/Debug/net7.0/9.2C.AssemblyInfo.cs
+/Users/guest1/Desktop/oop/9.2P/9.2C/obj/Debug/net7.0/9.2C.csproj.CoreCompileInputs.cache
+/Users/guest1/Desktop/oop/9.2P/9.2C/obj/Debug/net7.0/9.2C.dll
+/Users/guest1/Desktop/oop/9.2P/9.2C/obj/Debug/net7.0/refint/9.2C.dll
+/Users/guest1/Desktop/oop/9.2P/9.2C/obj/Debug/net7.0/9.2C.pdb
+/Users/guest1/Desktop/oop/9.2P/9.2C/obj/Debug/net7.0/9.2C.genruntimeconfig.cache
+/Users/guest1/Desktop/oop/9.2P/9.2C/obj/Debug/net7.0/ref/9.2C.dll
